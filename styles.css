@@ -165,9 +165,9 @@ footer a {
 /*SLIDER*/
 
 .slider {
-  margin: 20px 0 0 122px;
-  width: 250px;
-  height: 521px;
+  margin: 25px 0 0 126px;
+  width: 240px;
+  height: 510px;
   overflow: hidden;
 }
 
@@ -188,8 +188,8 @@ footer a {
 }
 
 .slide img {
-  width: 250px;
-  height: 521px;
+  width: 240px;
+  height: 510px;
   position: absolute;
   z-index: 10;
 }
